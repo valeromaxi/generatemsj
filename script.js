@@ -9,4 +9,3 @@ const msjGenerator = (newArr) => {
 }
 
 console.log(msjGenerator(arrMjs));
-//cambio de prueba
